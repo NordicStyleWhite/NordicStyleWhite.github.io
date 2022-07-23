@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Nordic's Repository
+description: Logs, Memos, Today I learned, etc.
+url: https://nordicstylewhite.github.io
+avatar: /assets/img/config/profile_01.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/img/config/bg.jpeg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: NordicStyleWhit
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: NordicStyleWhite
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/NordicStyleWhit
+    - https://github.com/NordicStyleWhite
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: NordicStyleWhite
+  url: https://github.com/NordicStyleWhite/
+  email: nordicstylewhite@gmail.com
