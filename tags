@@ -1,0 +1,84 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+#	_posts/2022-07-24-til-004.md	/^#  $/;"	h
+# Oracle Cloud Infrastructure (oci) 활용을 위한 개인 설정 방법 기록	_posts/2022-07-22-til-003.md	/^# Oracle Cloud Infrastructure (oci) 활용을 위한 개인 설정 방법 기록$/;"	h
+# VIM - User Defined Command	_posts/2022-07-22-til-002.md	/^# VIM - User Defined Command $/;"	h
+# Welcome to Nordic's Repository	about.md	/^# Welcome to Nordic's Repository$/;"	h
+# 오늘의 고군분투 SSH-KEY 접속	_posts/2022-07-25-til-006.md	/^# 오늘의 고군분투 SSH-KEY 접속$/;"	h
+## Footnotes	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^## Footnotes$/;"	h
+## Heading	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^## Heading$/;"	h
+## Inline HTML elements	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^## Inline HTML elements$/;"	h
+## Linux Server 상에서 Public Key 등록	_posts/2022-07-25-til-006.md	/^## Linux Server 상에서 Public Key 등록$/;"	h
+## OpenSSH	_posts/2022-07-25-til-006.md	/^## OpenSSH$/;"	h
+## 네번쨰: 몇가지 간단한 Linux Command 정리	_posts/2022-07-22-til-003.md	/^## 네번쨰: 몇가지 간단한 Linux Command 정리$/;"	h
+## 두번째: Oracle Cloud Infrastructure	_posts/2022-07-22-til-003.md	/^## 두번째: Oracle Cloud Infrastructure$/;"	h
+## 세번쨰: SSH 접속 및 VIM 환경설정	_posts/2022-07-22-til-003.md	/^## 세번쨰: SSH 접속 및 VIM 환경설정$/;"	h
+## 접속 간편화를 위한 config 파일 생성	_posts/2022-07-25-til-006.md	/^## 접속 간편화를 위한 config 파일 생성$/;"	h
+## 첫번째: iPad Termius 설치 및 기본 설정	_posts/2022-07-22-til-003.md	/^## 첫번째: iPad Termius 설치 및 기본 설정$/;"	h
+### $HOME/.ssh/authorized_keys 파일 수정	_posts/2022-07-25-til-006.md	/^### $HOME\/.ssh\/authorized_keys 파일 수정$/;"	h
+### .vimrc 설정	_posts/2022-07-22-til-003.md	/^### .vimrc 설정$/;"	h
+### Code	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^### Code$/;"	h
+### Compute Instance 생성 및 설정	_posts/2022-07-22-til-003.md	/^### Compute Instance 생성 및 설정$/;"	h
+### Images	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^### Images$/;"	h
+### Lists	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^### Lists$/;"	h
+### OpenSSH 명령어	_posts/2022-07-25-til-006.md	/^### OpenSSH 명령어 $/;"	h
+### OpenSSH 설치	_posts/2022-07-25-til-006.md	/^### OpenSSH 설치$/;"	h
+### Oracle Cloud Infrastructure (OCI) 란?	_posts/2022-07-22-til-003.md	/^### Oracle Cloud Infrastructure (OCI) 란?$/;"	h
+### Tables	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^### Tables$/;"	h
+### Termius	_posts/2022-07-22-til-003.md	/^### Termius$/;"	h
+### Termius SSH-key 생성 및 설정	_posts/2022-07-22-til-003.md	/^### Termius SSH-key 생성 및 설정$/;"	h
+### Vim Plug-in 설치 및 설정	_posts/2022-07-22-til-003.md	/^### Vim Plug-in 설치 및 설정$/;"	h
+### Vim 단축어 설정	_posts/2022-07-22-til-003.md	/^### Vim 단축어 설정$/;"	h
+### Virtual Cloud Networks (VCN) 생성 및 설정	_posts/2022-07-22-til-003.md	/^### Virtual Cloud Networks (VCN) 생성 및 설정$/;"	h
+### ssh service restart	_posts/2022-07-25-til-006.md	/^### ssh service restart$/;"	h
+### 예제	_posts/2022-07-21-til-001.md	/^### 예제$/;"	h
+### 출력결과	_posts/2022-07-21-til-001.md	/^### 출력결과$/;"	h
+#### YouCompleteMe 설치시 주의할 점	_posts/2022-07-22-til-003.md	/^#### YouCompleteMe 설치시 주의할 점$/;"	h
+MathJax	_posts/_backup/2020-10-02-testing-mathjax.md	/^Not Pure Poole supports [MathJax](https:\/\/www.mathjax.org\/). You can enable it on a page by setting `math: true` in the front matter.$/;"	l
+Mozilla Developer Network	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTML\/Element).$/;"	l
+OpenSSH 설치	_posts/2022-07-25-til-006.md	/^2. Shell Prompt 상에 다음 명령어 입력 ([OpenSSH 설치](https:\/\/docs.microsoft.com\/ko-kr\/windows-server\/administration\/openssh\/openssh_install_firstuse))$/;"	l
+Poole	_posts/_backup/2020-10-01-releasing-not-pure-poole-v0-1-0.md	/^Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https:\/\/github.com\/poole\/poole) and [Pure](https:\/\/purecss.io\/).$/;"	l
+Poole	about.md	/^ It is built on [Poole](https:\/\/github.com\/poole\/poole) and [Pure](https:\/\/purecss.io\/).$/;"	l
+README	_posts/_backup/2020-10-01-releasing-not-pure-poole-v0-1-0.md	/^For more information about this theme, you can read the [README](https:\/\/github.com\/vszhub\/not-pure-poole\/blob\/master\/README.md) file.$/;"	l
+README	about.md	/^ For more information about Not Pure Poole, please browse the [README](https:\/\/github.com\/vszhub\/not-pure-poole) file.$/;"	l
+SSH] Permission denied(public key) 원인 및 해결	_posts/2022-07-25-til-006.md	/^ * 참고 :  [[SSH] Permission denied(public key) 원인 및 해결](https:\/\/ingnoh.tistory.com\/38) $/;"	l
+StackOverflow	_posts/2022-07-22-til-002.md	/^출처 : [StackOverflow](https:\/\/stackoverflow.com\/questions\/25163347\/automatically-append-current-date-to-file-name-when-saving-in-vim)$/;"	l
+backToTop	_layouts/archive-dates.html	/^  function backToTop() {$/;"	f
+backToTop	_layouts/archive-taxonomies.html	/^  function backToTop() {$/;"	f
+backToTop	_site/categories/index.html	/^  function backToTop() {$/;"	f
+backToTop	_site/dates/index.html	/^  function backToTop() {$/;"	f
+backToTop	_site/tags/index.html	/^  function backToTop() {$/;"	f
+c++: internal compiler error (메모리 에러)	_posts/2022-07-22-til-003.md	/^ **참고** [c++: internal compiler error (메모리 에러)](https:\/\/m.blog.naver.com\/jungspeedy\/222036268371)$/;"	l
+gtag	_includes/google-analytics.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+placeholder	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^![placeholder](http:\/\/placehold.it\/200x200 "Small example image")$/;"	l
+placeholder	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^![placeholder](http:\/\/placehold.it\/400x200 "Medium example image")$/;"	l
+placeholder	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^![placeholder](http:\/\/placehold.it\/400x200 "Medium example image"){: .align-center}$/;"	l
+placeholder	_posts/_backup/2020-09-29-welcome-to-not-pure-poole.md	/^![placeholder](http:\/\/placehold.it\/800x400 "Large example image")$/;"	l
+scroll	_includes/scroll.html	/^  function scroll() {$/;"	f
+scroll	_site/2022/07/24/til-005/index.html	/^  function scroll() {$/;"	f
+scroll	_site/404.html	/^  function scroll() {$/;"	f
+scroll	_site/about/index.html	/^  function scroll() {$/;"	f
+scroll	_site/categories/index.html	/^  function scroll() {$/;"	f
+scroll	_site/dates/index.html	/^  function scroll() {$/;"	f
+scroll	_site/index.html	/^  function scroll() {$/;"	f
+scroll	_site/tags/index.html	/^  function scroll() {$/;"	f
+scroll	_site/til/2022/07/21/til-001/index.html	/^  function scroll() {$/;"	f
+scroll	_site/til/2022/07/22/til-002/index.html	/^  function scroll() {$/;"	f
+scroll	_site/til/2022/07/22/til-003/index.html	/^  function scroll() {$/;"	f
+scroll	_site/til/2022/07/22/til-004/index.html	/^  function scroll() {$/;"	f
+strip	_includes/scroll.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/2022/07/24/til-005/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/404.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/about/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/categories/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/dates/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/tags/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/til/2022/07/21/til-001/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/til/2022/07/22/til-002/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/til/2022/07/22/til-003/index.html	/^  function strip(str, remove) {$/;"	f
+strip	_site/til/2022/07/22/til-004/index.html	/^  function strip(str, remove) {$/;"	f
